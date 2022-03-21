@@ -3,3 +3,8 @@ author: DanteDev
 version: 1.0
 main: dctx\tools\tools
 api: [3.0.0]
+
+permissions:
+# Comming soon!
+commands:
+# Comming soon!
